@@ -6,3 +6,7 @@ This repository is made up of four folders corresponding to the following 4 sect
 * EDIFICIO ADMINISTRATIVO
 * PORTADA 3
 * PORTADA 4
+
+Location license file name ROC.lic
+
+***/opt/axs/customKeystore/***
