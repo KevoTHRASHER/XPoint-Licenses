@@ -1,0 +1,24 @@
+{
+  "vendor": "Rank One Computing",
+  "license": {
+    "product": "ROC SDK",
+    "version": "2.2",
+    "expiry": "never",
+    "hostid": "259d0295247fb0ea750d050d87acbd05c0cfba58b171128c203482cee384e9b4",
+    "salt": "7fd7b3a53a2d1c7cd2456a65471b616e3abe22f0caba42987a865182528ec04f",
+    "customer": "ZucchettiAxess",
+    "userdata": {
+            "account": "ZucchettiAxess",
+            "explore": false,
+            "grade": "perpetual",
+            "hostid": "[d8:3a:dd:11:47:20]",
+            "liveness": true,
+            "logging": false,
+            "notes": "Pn:TMC97207361 Sn:35232006",
+            "templates": 25000,
+            "threads": 1
+        },
+    "minversion": "1.13",
+    "signature": "3040021e7e932bc02866d33970242f6bd5dc3b63a047468d77e8bd605d9fda85f71a021e37468df0bfbdd48fb164ec60c6a653a51f7de54d9b2301b0084308ef1444"
+  }
+}
