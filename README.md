@@ -9,4 +9,4 @@ This repository is made up of four folders corresponding to the following 4 sect
 
 Location license file name ROC.lic
 
-***/opt/axs/customKeystore/***
+***/opt/axs/customKeystore/ROC.lic***
